@@ -12,6 +12,22 @@ Utilizar el análisis de nodos para determinar cantidades desconocidas en un cir
 
 2. MARCO TEORICO
 
+![1](https://user-images.githubusercontent.com/116687152/210430346-a77105a7-57f1-4bb2-8212-6b88b1af8d97.png)
+
+![2](https://user-images.githubusercontent.com/116687152/210430382-9ef9ad0f-b482-43ca-a723-5613e79603e9.png)
+
+![4](https://user-images.githubusercontent.com/116687152/210430398-2c59c060-71eb-4149-bdee-1251dd306d74.png)
+
+![3](https://user-images.githubusercontent.com/116687152/210430424-bab0d325-ce92-4a06-9b04-5f9fa2fb0883.png)
+
+![5](https://user-images.githubusercontent.com/116687152/210430463-328ae7cb-e648-40c4-8284-518bd7f94e48.png)
+
+![6](https://user-images.githubusercontent.com/116687152/210430482-fcb33015-1ee4-4684-a9be-cebb408ad5d1.png)
+
+![7](https://user-images.githubusercontent.com/116687152/210430505-98531342-df68-4612-8f24-af2a65784b46.png)
+
+![8](https://user-images.githubusercontent.com/116687152/210430525-5dc3c2e7-9735-4411-a304-8db05f9a46c4.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2 .
