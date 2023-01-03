@@ -2,6 +2,14 @@
 
 1. OBJETIVOS
 
+Analizar tres métodos de resolver ecuaciones simultáneas.
+
+Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito.
+
+Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito.
+
+Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito.
+
 2. MARCO TEORICO
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -160,7 +168,15 @@ El ensamble de conmutador y escobillas conecta eléctricamente la espira al circ
 
 4. VIDEO
 
+https://youtu.be/hiGNkd2tXUk
+
 5. CONCLUSIONES
+
+Hemos aprendido a utilizar los tres metodos para resolver las ecuaciones.
+
+Hemos aprendido a utilizar el metodo de las corrientes en ramas.
+
+Hemos aprendido a explicar los principios del electromagnetismo.
 
 6. BIBLIOGRAFÍA
 
